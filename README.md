@@ -11,7 +11,9 @@ Below are the steps to get setup, which you should already be very familiar with
 1. Create a firebase app named `YOU-DO App`
 2. Setup a firebase database (NO AUTH)
 3. Add Sample Data to Your Database
-4. Review the [MVP wireframe](https://www.figma.com/file/4YVF79vgSfeSj0H1G9HYDy/YOU-DO-MVP)
+4. Add your firebase creds to the `.env` file
+5. Review the [MVP wireframe](https://www.figma.com/file/4YVF79vgSfeSj0H1G9HYDy/YOU-DO-MVP)
+6. CODE!
 
 ## MVP Acceptance Criteria
 NOTE: **DO NOT** make style changes. Follow the wireframe as designed as it uses Bootstrap Components that will make your app development faster. If you are able to complete MVP, move on to the stretch goals.
