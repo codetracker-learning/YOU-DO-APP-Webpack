@@ -29,7 +29,7 @@ NOTE: **DO NOT** make style changes. Follow the wireframe as designed as it uses
 ## STRETCH Acceptance Critieria
 **DO THESE IN ORDER OR BE FIRED**
 - Review the [STRETCH wireframe](https://www.figma.com/file/ggEHuoIjQoUOLTylmQZnTK/YOU-DO-STRETCH)
-- As a user, I should see an affordance that allows me to swtich views (See wireframe)
+- As a user, I should see an affordance that allows me to switch views (See wireframe)
 - As a user, if I select "View Completed" I should only see the completed YOU-DOs and whatever is shown in the wireframe
 - As a user, I should be able to select from a pre-defined list of categories for the YOU-DOs I create.
 - As a user, when I complete the form to submit a YOU-DO, the newly created YOU-DO should be visible on the DOM under the specified category and the category should update in firebase to the category I selected.
